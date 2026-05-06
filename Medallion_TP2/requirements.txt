@@ -1,0 +1,8 @@
+pandas
+minio
+pyarrow
+boto3
+duckdb
+matplotlib
+jupyter
+notebook

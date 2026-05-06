@@ -1,0 +1,9 @@
+region,categorie,ca_total,nb_commandes,panier_moyen
+Nord,Informatique,1579.93,3,526.64
+Ouest,Mobilier,729.98,2,364.99
+Sud,Informatique,699.96,3,233.32
+Sud,Mobilier,449.99,1,449.99
+Nord,Mobilier,349.99,1,349.99
+Ouest,Informatique,199.99,1,199.99
+Est,Informatique,179.98,1,179.98
+Est,Mobilier,149.97,1,149.97
