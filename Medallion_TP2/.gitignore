@@ -1,0 +1,10 @@
+minio-data/
+venv_tp2/
+__pycache__/
+*.pyc
+minio-data/
+venv_tp2/
+__pycache__/
+*.pyc
+*.zip
+report/Rapport_TP2_Pipeline_Medallion.docx
